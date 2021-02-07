@@ -4,7 +4,7 @@ module.exports = {
   url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
   description: `A nice starter blog post boilerplate template built using Gatsby.`,
   pathPrefix: '/',
-  title: ``,
+  title: `Arav Narula`,
   disqusShortname: '',
   postsPerPage: 15,
   googleAnalyticsId: '',
